@@ -1,2 +1,3 @@
 # Medical-tools
-my easy medical image tools
+Some medical image tools 
+Continually updated
